@@ -1,0 +1,7 @@
+{
+  "name": "Khwaab Surat",
+  "description": "Student academic progress tracker and educational workshops manager for Khwaab Foundation Surat with a golden black theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
